@@ -1,6 +1,8 @@
 <?php
+include 'data/hotels_data.php';
+
 // Label pagina
-$page_label = 'PHP Hotel'
+$page_label = 'PHP Hotel';
 ?>
 
 <!DOCTYPE html>
@@ -10,7 +12,8 @@ $page_label = 'PHP Hotel'
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $page_label ?></title>
 </head>
+
 <body>
-    
+
 </body>
 </html>
